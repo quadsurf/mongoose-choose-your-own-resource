@@ -1,6 +1,6 @@
 ## Mongoose: Choose Your Own Resource
 
-Tonight you're going to combine your knowledge of express, mongo and mongoose to build an application that has full CRUD on a resource of your choice.  You've done this with authors, puppies, and countries so far.  Tonight, it's up to you.
+You're going to combine your knowledge of express, mongo and mongoose to build an application that has full CRUD on a resource of your choice.  You've done this with authors, puppies, and countries so far.  It's up to you.
 
 
 * Your resource must have at least 4 fields.
